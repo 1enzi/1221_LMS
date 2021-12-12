@@ -1,4 +1,4 @@
-# 1221_LMS
+# TeachBorn проект для трека Maximum Education
 Synergy CodeDove Teams project
 
 Не удалось полностью залить проект на гит, поэтому ниже прикрепляем ссылку на Яндекс.Диск.
